@@ -2,5 +2,5 @@
 let username: string = "azzam";
 
 function greet(name: string) {
-  return console.log(name);
+  alert(name);
 }
