@@ -3,6 +3,6 @@ let username: string = "azzam";
 let age: number = 18;
 
 function greet(name: string) {
-  alert(name);
-  alert(age);
+  console.log(name);
+  console.log(age);
 }
